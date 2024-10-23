@@ -24,7 +24,6 @@ Responsive Design: Optimized for both iOS and Android devices.
 3. npm install
 4. npx expo start
 
-Have fun ❤️🚀😄
 
 ### Video:
 
