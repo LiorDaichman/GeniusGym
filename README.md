@@ -1,11 +1,11 @@
-Welcome to GeniusGym 💪
+# Welcome to GeniusGym 💪
 
-⭐ Overview:
+### ⭐ Overview:
 
 Welcome to the Fitness & Gym App! 🔥 This project is built using Expo and React Native with Firebase. It aims to provide users with a comprehensive platform to manage their fitness routines, track progress, and engage in various gym-related activities.
 
 
-⭐ Features:
+### ⭐ Features:
 
 User Authentication: Secure sign-up and login using email and password.
 Workout Routines: Browse, create, and customize workout routines.
@@ -17,7 +17,7 @@ foods: Explanation on foods and calculate nutrition
 Responsive Design: Optimized for both iOS and Android devices.
 
 
-⭐ Installation:
+### ⭐ Installation:
 
 1. git clone https://github.com/LiorDaichman/GeniusGym.git
 2. cd GeniusGym
@@ -26,7 +26,7 @@ Responsive Design: Optimized for both iOS and Android devices.
 
 Have fun ❤️🚀😄
 
-Video:
+### Video:
 
 [GeniusGym.webm](https://github.com/user-attachments/assets/84fac1df-6911-4131-be20-0b11d0747b54)
 
