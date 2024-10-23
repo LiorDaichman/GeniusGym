@@ -26,6 +26,8 @@ Responsive Design: Optimized for both iOS and Android devices.
 
 Have fun ❤️🚀😄
 
+Video:
+
 [GeniusGym.webm](https://github.com/user-attachments/assets/84fac1df-6911-4131-be20-0b11d0747b54)
 
 
