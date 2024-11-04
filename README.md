@@ -8,28 +8,25 @@ Welcome to the Fitness & Gym App! 🔥 This project is built using Expo and Reac
 ### ⭐ Features:
 
 - **User Authentication**: 
-  - Secure sign-up and login using email and password.
+   Secure sign-up and login using email and password.
   
 - **Workout Routines**: 
-  - Browse, create, and customize workout routines.
+   Browse, create and customize workout routines.
 
 - **Class Scheduling**: 
-  - View and book gym classes and personal training sessions.
-
-- **Progress Tracking**: 
-  - Monitor fitness progress with statistics and graphs.
+  View and book gym classes and personal training sessions.
 
 - **Admin Panel**: 
-  - Manage classes, view lessons, and cancel sessions directly from the AdminScreen.
+  Manage classes, view lessons, and cancel sessions directly from the AdminScreen.
 
 - **Shop**: 
-  - Purchase fitness products.
+   Purchase fitness products.
 
 - **Foods**: 
-  - Explanation on foods and calculate nutrition.
+   Explanation on foods and calculate nutrition.
 
 - **Responsive Design**: 
-  - Optimized for both iOS and Android devices.
+  Optimized for both iOS and Android devices.
 
 
 ### ⭐ Installation:
