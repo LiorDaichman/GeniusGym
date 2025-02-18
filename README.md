@@ -41,4 +41,10 @@ Welcome to the Fitness & Gym App! 🔥 This project is built using Expo and Reac
 
 [GeniusGym.webm](https://github.com/user-attachments/assets/84fac1df-6911-4131-be20-0b11d0747b54)
 
+## 📝 License
+This project is licensed under the **MIT License**.
+
+## 📩 Contact
+For any questions or suggestions, reach out via **liordaichman@gmail.com** or open an issue on GitHub.
+
 
